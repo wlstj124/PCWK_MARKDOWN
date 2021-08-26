@@ -1,6 +1,24 @@
 # PCWK_MARKDOWN
+
+### 7. 하이퍼링크
+[링크텍스트](링크URL "설명문구")
+
+
+## 6. 가로선
+---
+***
+---
+
+
 ### 5. 코드 블록
-''' 프로그래밍 언어
+''' 프로그래밍 언어 : JAVA HELLO
+public class Hello {
+
+     public static void main(String[]args){
+     System.out.println("01.Hello,itdda!");
+     System.out.println("02.Hello,itdda!");
+     System.out.println("Hello,itdda!");
+     
 
 
 ### 4. 목록
