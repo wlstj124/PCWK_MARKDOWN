@@ -21,7 +21,7 @@
   ### 3.2 프로젝트 선정 배경
   ### 3.3 개발환경
   ### 3.4 진행일정
-    <img src = "https://github.com/wlstj124/PCWK_MARKDOWN/issues/3#issue-994486192"  width="300px" height="300px"></img><br/> 
+    <img src = "https://user-images.githubusercontent.com/89446058/133031363-115814a9-c537-4e14-bc15-ed9f8347acce.PNG"  width="300px" height="300px"></img><br/> 
   
 ### 4. 프로젝트 설계
   ### 4.1 요구사항정의서
