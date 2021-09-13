@@ -1,4 +1,38 @@
 # PCWK_MARKDOWN
+
+### 0. 목차
+
+### 1. 목적
+
+### 2. Norajo 팀소개
+  
+  ### 2.1 구성원
+  ### 2.2 담당업무
+  |이름|담당업무|
+|:-------|:-------|
+|고현우|   |  
+|권보성|   |
+|김보선|   |
+|김진서|   |
+|유채린|   |
+  
+### 3. 프로젝트 기획
+  ### 3.1 프로젝트 명
+  ### 3.2 프로젝트 선정 배경
+  ### 3.3 개발환경
+  ### 3.4 진행일정
+    <img src = "https://user-images.githubusercontent.com/89446058/133030306-bbecd833-cb0d-4f37-92b4-789ff9b146d4.PNG" width:150px; height:250px;> 
+  
+### 4. 프로젝트 설계
+  ### 4.1 요구사항정의서
+  <img src = "https://user-images.githubusercontent.com/89446058/133030316-d7f26752-f36d-4ce4-ba08-341f5e7ee9f2.PNG" width:150px; height:250px;> 
+  ### 4.2 프로세스 흐름도
+    
+  ### 4.3 ERD
+      <img src = "https://user-images.githubusercontent.com/89446058/133030273-cb7c335e-fdab-4c7a-b03e-2224073dac1b.PNG" width:150px; height:250px;> 
+### 5. 기능시연
+
+
 ### 10.표
 |번호|아이디|이름|레벨|이메일|등록일|
 |:---------|:----------|:-------------|------------:|:--------------|:---------:|
