@@ -21,15 +21,16 @@
   ### 3.2 프로젝트 선정 배경
   ### 3.3 개발환경
   ### 3.4 진행일정
-    <img src = "https://user-images.githubusercontent.com/89446058/133030306-bbecd833-cb0d-4f37-92b4-789ff9b146d4.PNG" width:150px; height:250px;> 
+    <img src = "https://github.com/wlstj124/PCWK_MARKDOWN/issues/3#issue-994486192"  width="300px" height="300px"></img><br/> 
   
 ### 4. 프로젝트 설계
   ### 4.1 요구사항정의서
-  <img src = "https://user-images.githubusercontent.com/89446058/133030316-d7f26752-f36d-4ce4-ba08-341f5e7ee9f2.PNG" width:150px; height:250px;> 
+  <img src = "https://github.com/wlstj124/PCWK_MARKDOWN/issues/4#issue-994486364"  width="300px" height="300px"></img><br/> 
   ### 4.2 프로세스 흐름도
     
   ### 4.3 ERD
-      <img src = "https://user-images.githubusercontent.com/89446058/133030273-cb7c335e-fdab-4c7a-b03e-2224073dac1b.PNG" width:150px; height:250px;> 
+     <img src = "https://github.com/wlstj124/PCWK_MARKDOWN/issues/2#issue-994485839"  width="300px" height="300px"></img><br/> 
+  
 ### 5. 기능시연
 
 
